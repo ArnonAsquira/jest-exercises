@@ -1,0 +1,12 @@
+{
+  "name": "exercise-setup-jest",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^27.4.5",
+    "test": "^0.6.0"
+  }
+}
